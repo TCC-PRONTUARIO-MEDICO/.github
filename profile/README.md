@@ -8,7 +8,7 @@ Este espaço reúne os nossos projetos, incluindo o desenvolvimento de um Prontu
  
 Sistema desenvolvido para gerir informações médicas de forma digital, permitindo:
 
--Registro de pacientes
+- Registro de pacientes
 - Histórico clínico
 - Acesso seguro aos dados
 
